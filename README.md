@@ -1,0 +1,5 @@
+-  Hi, I’m @hosthider
+-  I’m interested in Security/Possibly saving the world as long as theres a cool theme song, idk something 80s ish.
+-  I’m currently learning ML with Swift.
+-  I’m looking to collaborate on ML and Security related prjects in Swift Java and possibly C, as long as you're not an elitist.
+-  How to reach me ... just hit me up through telepathy.
